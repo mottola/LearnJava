@@ -1,91 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1efb456-9598-49ae-9254-cfa3b075b0ac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Android/ButtonClickCounter/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Android/HelloWorld/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/HelloWorld/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/HelloWorld/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/HelloWorld/src/com/example/helloworld/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/HelloWorld/src/com/example/human/Human.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.1/options/runner.layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.1/options/web-browsers.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/colors/DarkMaterial.icls" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/colors/Ladies Night 2.icls" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/colors/Peacock.icls" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/javaeeAppServers.xml" />
-      <change type="DELETED" beforePath="$USER_HOME$/exercism/python/hello-world/.idea/hello-world.iml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/exercism/python/hello-world/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/exercism/python/hello-world/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/exercism/python/hello-world/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/exercism/python/hello-world/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/dataquest/python_basics/challenge1/.vscode/tasks.json" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/dataquest/python_basics/challenge1/unisex_name_data.csv" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/dataquest/python_basics/challenge1/working_with_real_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/dataquest/python_basics/conditional_logic.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/dataquest/python_basics/files_and_list_manipulation.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/dataquest/python_basics/for_loop_Gauss.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/dataquest/python_basics/manipulating_lists.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/dataquest/python_basics/python-methods.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/dataquest/python_basics/python_data_types.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/dataquest/python_basics/python_lists_arrays.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/dataquest/python_basics/python_packages.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/.idea/dictionaries/mottola.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/.idea/learnPython.iml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/intermediate-python/.idea/intermediate-python.iml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/intermediate-python/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/intermediate-python/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/intermediate-python/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/intermediate-python/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/intermediate-python/matplotlib/basic_plots.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/.idea/python_basics.iml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/built_in_functions.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/for_loop.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/for_loop_Gauss.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/functions_continued.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/if.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/if_elif.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/if_else.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/manipulating_lists.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/python-methods.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/python_data_types.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/python_lists_arrays.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/scope.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/try_and_except.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/while_loops.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/learnPython/python_basics/while_with_input.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/src/actions/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/src/components/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/src/containers/search_bar.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/src/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/src/reducers/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/style/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/test/components/app_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/test/test_helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/projects/redux-weather-app/webpack.config.js" afterPath="" />
+    <list default="true" id="cf36ac76-2b20-4984-a1fb-694f6e1a5c6f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringDemo1/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringDemo1/src/tech/mottola/springdemo/Coach.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpringDemo1/src/tech/mottola/springdemo/TrackCoach.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Switch/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../While/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../MethodOverloading/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MethodOverloading/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/PyCharm2016.1/options/github_settings.xml" afterPath="$USER_HOME$/Library/Preferences/PyCharm2016.1/options/github_settings.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/PyCharm2016.1/options/other.xml" afterPath="$USER_HOME$/Library/Preferences/PyCharm2016.1/options/other.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/PyCharm2016.1/options/runner.layout.xml" afterPath="$USER_HOME$/Library/Preferences/PyCharm2016.1/options/runner.layout.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/WebStorm2016.1/options/colors.scheme.xml" afterPath="$USER_HOME$/Library/Preferences/WebStorm2016.1/options/colors.scheme.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Methods/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../Methods/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Methods/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Methods/.idea/workspace.xml" />
     </list>
-    <ignored path="Methods.iws" />
+    <ignored path="ForLoop.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -102,15 +30,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Methods" />
+    <favorites_list name="ForLoop" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/rickmottola/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/tech/mottola/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="654">
+              <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -129,7 +57,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/rickmottola/Main.java" />
+        <option value="$PROJECT_DIR$/src/tech/mottola/Main.java" />
       </list>
     </option>
   </component>
@@ -139,16 +67,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="27" />
-    <option name="width" value="1033" />
+    <option name="x" value="909" />
+    <option name="y" value="23" />
+    <option name="width" value="856" />
     <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -158,11 +80,11 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -175,42 +97,35 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.rickmottola.Main" />
+      <option name="MAIN_CLASS_NAME" value="tech.mottola.Main" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Methods" />
+      <module name="ForLoop" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment />
-      <server-settings />
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -492,7 +407,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Methods" />
+      <module name="ForLoop" />
       <envs />
       <method />
     </configuration>
@@ -653,71 +568,8 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Tomcat Local" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.3" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment />
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Methods" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="50810" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method />
-    </configuration>
-    <list size="2">
+    <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Tomcat Local" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -735,48 +587,47 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1efb456-9598-49ae-9254-cfa3b075b0ac" name="Default" comment="" />
-      <created>1467161460418</created>
+      <changelist id="cf36ac76-2b20-4984-a1fb-694f6e1a5c6f" name="Default" comment="" />
+      <created>1467312995902</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1467161460418</updated>
-      <workItem from="1467161461684" duration="3305000" />
-      <workItem from="1467260280776" duration="170000" />
+      <updated>1467312995902</updated>
+      <workItem from="1467312997320" duration="3471000" />
+      <workItem from="1467319331551" duration="190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3475000" />
+    <option name="totallyTimeSpent" value="3661000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1033" height="1049" extended-state="0" />
-    <editor active="false" />
+    <frame x="909" y="23" width="856" height="1049" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28163266" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29964328" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30022573" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28061223" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -792,7 +643,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/rickmottola/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/tech/mottola/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -800,88 +651,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rickmottola/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/tech/mottola/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="654">
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Methods</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
